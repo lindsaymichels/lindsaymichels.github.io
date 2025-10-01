@@ -19,7 +19,7 @@ Member of Personal Robotics Group (PRG) under Dr. Bill Smart
 
 ​Research Areas: HRI, Nonverbal Communication, Privacy, Domestic/Home Robots
 
-I’m currently working on **Quori robot experiments** involving perception, proxemics, and autonomous navigation in response to interruptions by robots.
+I’m currently working with **Quori**, a humanoid robot developed at UPenn. My work involves perception, proxemics, and autonomous navigation in response to interruptions by robots.
 
 ---
 
