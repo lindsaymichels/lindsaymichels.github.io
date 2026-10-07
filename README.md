@@ -97,10 +97,17 @@ Studied when a robot should intervene during a conversation between two people. 
 
 Developed a reinforcement learning framework for mapping human skeletal poses from the NTU RGB+D dataset to the SAMI humanoid robot. The system optimized pose similarity while respecting robot joint limits and embodiment constraints.
 
+### Interactive Rock-Paper-Scissors with NAO
+
+Developed an interactive Rock-Paper-Scissors system for the NAO humanoid robot. Used DeepFace-based face detection to identify when a person was present and prompt them to play. The robot recognized the user's hand gesture, determined the outcome of each round, and reacted differently depending on whether it won or lost. Programmed custom NAO gestures and behaviors for game actions and responses.
+
+### Spot Proxemics Study
+
+Conducted an HRI proxemics study at Colby College using the Spot quadruped robot. Participants walked parallel to Spot in opposite directions across repeated trials. In one condition, Spot maintained a straight path, while in another it gradually veered toward the participant without making contact. The study examined how small changes in robot trajectory affect pedestrian comfort and movement behavior, with applications to robot guide dogs and navigation in crowded spaces.
+
 ### Quori Robot Interruption Proxemics
 
 Built a perception and navigation pipeline that allowed Quori to detect people and approach them at controlled interpersonal distances. Used ROS, OpenCV, RGB-D sensing, and robot motion control to support an HRI study on proxemics and interruption behavior.
-
 ---
 
 ## Additional Interests
