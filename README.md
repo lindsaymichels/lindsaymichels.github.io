@@ -1,69 +1,121 @@
 # Lindsay A. Michels
 
-<img width="620" height="496" alt="Screen Shot 2025-10-01 at 4 06 21 PM" src="https://github.com/user-attachments/assets/eb83f0f0-4905-4e62-b333-56555dfb2cae" />
+<img width="620" height="496" alt="Lindsay Michels" src="https://github.com/user-attachments/assets/eb83f0f0-4905-4e62-b333-56555dfb2cae" />
 
-
-Ph.D. Candidate in Robotics, Oregon State University (Sept. 2025)
-
-B.A. in Computer Science, Colby College (May 2025)  
-GPA: 3.72  
-
-Human-Robot Interaction Researcher 
+Ph.D. Student in Robotics, Oregon State University  
+B.A. in Computer Science, Colby College, May 2025  
+Human-Robot Interaction Researcher
 
 ---
 
-##  About Me
-Current Ph.D. Candidate at Oregon State University
+## About Me
 
-Member of Personal Robotics Group (PRG) under Dr. Bill Smart
+I am a Robotics Ph.D. student at Oregon State University and a member of the Personal Robotics Group under Dr. Bill Smart.
 
-​Research Areas: HRI, Nonverbal Communication, Privacy, Domestic/Home Robots
+My research focuses on human-robot interaction, socially appropriate robot behavior, privacy, social boundaries, and interruption timing.
 
-I’m currently working with **Quori**, a humanoid robot developed at UPenn. My work involves perception, proxemics, and autonomous navigation in response to interruptions by robots.
+I am especially interested in how robots should behave when entering ongoing human interactions. My current work examines how factors such as urgency, conversational context, agent identity, social role, and user expectations affect whether a robot interruption is perceived as appropriate.
 
----
-
-##  Skills
-- **Programming:** Python 
-- **Tools & Libraries:** NumPy, OpenCV, scikit-learn, ROS  
-- **Other:** Data Visualization, Neural Networks 
+I also work on robot facilitation, intervention timing, and privacy-aware interaction design using platforms including Quori and Misty II.
 
 ---
 
-##  Relevant Coursework
-- Data Structures & Algorithms  
-- Programming Languages  
-- Learning-Based Controls  
-- Human-Centered Machine Learning  
-- Data Visualization  
+## Skills
+
+- **Programming:** Python, C++, Java
+- **Robotics:** ROS, ROS 2, OpenCV, robot perception, navigation, HRI
+- **Machine Learning:** PyTorch, reinforcement learning, neural networks, attention and transformer-based models
+- **Data Analysis:** NumPy, pandas, scikit-learn, Matplotlib, statistical analysis of human-subject data
+- **Robot Platforms:** Quori, Misty II, SAMI, Spot, NAO, Astro
 
 ---
 
-##  Experience
-**Student Researcher – Oregon State University REU**  
-*June 2024 – August 2024*  
-- Designed and ran HRI experiments on conversation interruption strategies.  
-- Collected and analyzed participant data using ROS, OpenCV, and depth camera systems.  
-- Wrote a conference-style paper discussing proxemics, robot motion paths, and user satisfaction.  
+## Relevant Coursework
 
-**Teaching Assistant/Grader – Colby College**  
-*Jan 2023 – May 2023*  
-- Supported students in Data Structures and Algorithms.  
-- Graded assignments and helped students debug code.  
-
----
-
-##  Projects
- 
-- **Quori Robot Research:** Researched optimal ways of interrupting conversations via robots. Developed navigation and perception pipelines, visualized detection results in RViz, and implemented clustering for proxemic analysis.  
+- Learning-Based Controls
+- Human-Robot Interaction
+- Human Factors Engineering
+- Perception Psychology
+- Linear Multivariate Controls
+- Psychology of Human-Computer Interaction
+- Data Structures and Algorithms
+- Data Visualization
 
 ---
 
+## Research and Experience
 
+**Graduate Research Assistant, Oregon State University**  
+*September 2025 to August 2026*
 
-##  Contact
-- **Email:** Academic: michelin@oregonstate.edu Personal: lindsay.a.michels@gmail.com  
-- **GitHub:** [github.com/lindsaymichels](https://github.com/lindsaymichels)  
-- **LinkedIn:** [linkedin.com/in/lindsay-michels-051367253](https://www.linkedin.com/in/lindsay-michels-051367253/)  
+- Conducted research on socially appropriate robot behavior, privacy, and human-robot social boundaries.
+- Designed and ran online and in-person human-subject studies examining robot interruptions.
+- Studied how urgency, conversational context, agent identity, and social-role cues affect interruption appropriateness.
+- Analyzed repeated-measures participant data and used results to inform context-aware robot interruption policies.
+
+**Graduate Teaching Assistant, Oregon State University**  
+*September 2026 to Present*
+
+- Teach and support engineering students learning Python, NumPy, numerical computation, visualization, and computational problem solving.
+- Help develop, test, and troubleshoot programming assignments and lab activities.
+
+**Social Robot Facilitation Research, Oregon State University**  
+*January 2026 to Present*
+
+- Designed and evaluated robot intervention timing strategies for dyadic conversations.
+- Compared proactive, reactive, and baseline facilitation behaviors using Misty II.
+- Examined how turn-taking and conversational timing affect perceptions of robot intervention appropriateness.
+
+**Research Experience for Undergraduates, Oregon State University**  
+*June 2024 to August 2024*
+
+- Developed a ROS-based perception and navigation system for the Quori social robot.
+- Integrated RGB-D perception, YOLOv3, OpenCV, and robot motion control.
+- Studied interpersonal distance and proxemics during robot interruptions.
+- Conducted a human-subject study examining user responses to robot approach distance.
+
+**Teaching Assistant and Grader, Colby College**  
+*January 2023 to May 2023*
+
+- Supported students in Data Structures and Algorithms.
+- Helped students debug code and understand programming concepts.
+- Graded assignments and provided feedback.
+
+---
+
+## Projects
+
+### Socially Appropriate Robot Interruptions
+
+Designed a series of HRI studies examining when robot interruptions are considered socially appropriate. This work focuses on interruption urgency, conversational context, human versus robot interrupters, and social-role cues. Findings are being used to develop more context-aware interruption policies for social robots.
+
+### Social Robot Facilitation
+
+Studied when a robot should intervene during a conversation between two people. Developed and evaluated intervention strategies based on conversational turn-taking and periods of silence using Misty II.
+
+### Human-to-Robot Pose Mapping with Reinforcement Learning
+
+Developed a reinforcement learning framework for mapping human skeletal poses from the NTU RGB+D dataset to the SAMI humanoid robot. The system optimized pose similarity while respecting robot joint limits and embodiment constraints.
+
+### Quori Robot Interruption Proxemics
+
+Built a perception and navigation pipeline that allowed Quori to detect people and approach them at controlled interpersonal distances. Used ROS, OpenCV, RGB-D sensing, and robot motion control to support an HRI study on proxemics and interruption behavior.
+
+---
+
+## Additional Interests
+
+Former Colby College Cross Country and Track athlete, senior captain, DIII Nationals competitor, and All-Academic Athlete.
+
+Current interests include marathon and trail running, music, movies, books, musicals, camping, and karaoke.
+
+---
+
+## Contact
+
+- **Academic Email:** michelin@oregonstate.edu
+- **Personal Email:** lindsay.a.michels@gmail.com
+- **GitHub:** [github.com/lindsaymichels](https://github.com/lindsaymichels)
+- **LinkedIn:** [linkedin.com/in/lindsay-michels-051367253](https://www.linkedin.com/in/lindsay-michels-051367253/)
 
 ---
