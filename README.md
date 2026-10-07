@@ -85,29 +85,30 @@ I also work on robot facilitation, intervention timing, and privacy-aware intera
 
 ## Projects
 
-### Socially Appropriate Robot Interruptions
+### Socially Appropriate Robot Interruptions (February 2026 - September 2026)
 
 Designed a series of HRI studies examining when robot interruptions are considered socially appropriate. This work focuses on interruption urgency, conversational context, human versus robot interrupters, and social-role cues. Findings are being used to develop more context-aware interruption policies for social robots.
 
-### Social Robot Facilitation
+### Social Robot Facilitation (February 2026 - September 2026)
 
 Studied when a robot should intervene during a conversation between two people. Developed and evaluated intervention strategies based on conversational turn-taking and periods of silence using Misty II.
 
-### Human-to-Robot Pose Mapping with Reinforcement Learning
+### Human-to-Robot Pose Mapping with Reinforcement Learning (September 2025 - December 2025)
 
 Developed a reinforcement learning framework for mapping human skeletal poses from the NTU RGB+D dataset to the SAMI humanoid robot. The system optimized pose similarity while respecting robot joint limits and embodiment constraints.
 
-### Interactive Rock-Paper-Scissors with NAO
+### Interactive Rock-Paper-Scissors with NAO (September 2025 - December 2025)
 
 Developed an interactive Rock-Paper-Scissors system for the NAO humanoid robot. Used DeepFace-based face detection to identify when a person was present and prompt them to play. The robot recognized the user's hand gesture, determined the outcome of each round, and reacted differently depending on whether it won or lost. Programmed custom NAO gestures and behaviors for game actions and responses.
 
-### Spot Proxemics Study
+### Spot Proxemics Study (March 2025 - May 2025)
 
 Conducted an HRI proxemics study at Colby College using the Spot quadruped robot. Participants walked parallel to Spot in opposite directions across repeated trials. In one condition, Spot maintained a straight path, while in another it gradually veered toward the participant without making contact. The study examined how small changes in robot trajectory affect pedestrian comfort and movement behavior, with applications to robot guide dogs and navigation in crowded spaces.
 
-### Quori Robot Interruption Proxemics
+### Quori Robot Interruption Proxemics (June 2024 - August 2024)
 
 Built a perception and navigation pipeline that allowed Quori to detect people and approach them at controlled interpersonal distances. Used ROS, OpenCV, RGB-D sensing, and robot motion control to support an HRI study on proxemics and interruption behavior.
+
 ---
 
 ## Additional Interests
